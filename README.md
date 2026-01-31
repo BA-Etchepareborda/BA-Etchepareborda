@@ -11,7 +11,8 @@
 * **Objective:** Developing a navigation stack that ensures robot safety in dynamic environments using Deep RL.
 * **Stack:** `ROS 2` (Humble), `NVIDIA Isaac Lab`, `PyTorch`, and `C++`.
 * **Environment:** Training high-fidelity agents within `NVIDIA Isaac Sim` for seamless Sim-to-Real transition.
-
+* **Project Showcase:** [View Research & Demos](https://github.com/BA-Etchepareborda/public-rl-thesis) 🚀
+* 
 ---
 
 ### 💻 Tech Stack
